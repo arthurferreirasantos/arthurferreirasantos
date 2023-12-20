@@ -1,5 +1,5 @@
 - 👋 Hi, I´m Arthur Ferreira dos Santos
-- 👀 I’m interested in full stack
+- 👀 I’m interested in fullstack
 - 🌱 I’m currently learning JAVA and Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me email: Arthurfsantos07@gmail.com
