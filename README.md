@@ -1,6 +1,6 @@
 - 👋 Hi, I´m Arthur Ferreira dos Santos
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
+- 👀 I’m interested in pentesting
+- 🌱 I’m currently learning CompTIA Network+
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me email: Arthurfsantos07@gmail.com
 
